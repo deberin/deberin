@@ -9,10 +9,6 @@
 
 - 🔭 I’m currently working on **0xDeberin.com**
 
-- 🌱 I’m currently learning **Computer Vision, Blockchain**
-
-- 🤝 I’m looking for **someone to practice my english,if you're an english native speaker,feel free to contact me!**
-
 - 💬 Ask me about **Python, PHP, MFA sites, SEO**
 
 - 📫 How to reach me **deberin@gmail.com**
